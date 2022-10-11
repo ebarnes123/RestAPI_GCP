@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: emilyb
+  CLOUD_SQL_PASSWORD: password1234
+  CLOUD_SQL_DATABASE_NAME: songsdb
+  CLOUD_SQL_CONNECTION_NAME: flaks-mysql-demo:us-east4:demo
